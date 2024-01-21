@@ -1,0 +1,18 @@
+{
+    "name": "vass/social",
+    "require": {
+        "bramus/router": "^1.6",
+        "phpmailer/phpmailer": "^6.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vass\\WM\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vasil Georgiev",
+            "email": "vassbg@gmail.com"
+        }
+    ]
+}
